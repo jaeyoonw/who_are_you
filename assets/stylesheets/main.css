@@ -134,7 +134,7 @@ Custom styles
 ==========
 */
 body {
-  background: #02354e;
+  background: #056b9e;
   color: #888;
   font: 300 16px/22px "Lato", "Open Sans", "Helvitca Neue", Helvetica, Arial,
     sans-serif;
@@ -229,9 +229,11 @@ Lead
 }
 .lead h2 {
   font-size: 36px;
+  color: #dfe2e5;
 }
 .lead p {
   font-size: 24px;
+  color: #dfe2e5;
 }
 
 /*
@@ -274,6 +276,7 @@ Primary Footer
 ==========
 */
 .primary-footer small {
+  color: #dfe2e5;
   float: left;
 }
 .primary-footer {
@@ -290,6 +293,7 @@ nav {
   text-align: right;
 }
 nav a {
+  color: #dfe2e5;
   margin: 0 10px;
 }
 
